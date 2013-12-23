@@ -1,0 +1,4 @@
+^ group1
+@ entity1
+* waveLength 3.40
+* amplitude 0.001
